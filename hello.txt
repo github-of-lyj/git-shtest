@@ -1,0 +1,2 @@
+this is LYJ
+I am relearning git.
